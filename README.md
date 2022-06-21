@@ -30,7 +30,7 @@ In order to download the code for today's lab and modify, CD into your working c
 
 ```
 git clone https://github.com/CTDdata/govtDataLab
-cd govDataLab
+cd govtDataLab
 jupyter notebook
 ```
 
