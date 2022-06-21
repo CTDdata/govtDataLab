@@ -28,11 +28,11 @@ https://nces.ed.gov/
 Navigating these data can be tricky, and is also part of a data scientist's job.
 In order to download the code for today's lab and modify, CD into your working class folder using the command line, then enter the following commands. 
 
-'''
+```
 git clone https://github.com/CTDdata/govtDataLab
 cd govDataLab
 jupyter notebook
-'''
+```
 
 The Jupyter Notebooks interface will open in your browser. You can open govt-data.ipynb and modify it to work for your dataset, which you will drag into the govtDataLab folder.
 
