@@ -1,7 +1,7 @@
 <h1>Lab: Working with Government Data</h1>
 
 Choose a pubicly available dataset from a government entity. Use raw data/micro data, not data that has already been summarized.
-Try to find a dataset  that's particulary interesting to you, and then find a column in the dataset that you want to study. 
+Try to find a dataset  that's particulary interesting to you, and then find a column in the dataset that you want to study, and that is appropriate for creating a frequency chart. 
 
 The data should be in a .xlsx, .sas7bdat, or .csv file. (.zip data often contains these filetypes)
 Find the data dictionary or codebook that corresponds to your data file. (In rare cases, the file will contain descriptive info and no codebook is necsssary)
