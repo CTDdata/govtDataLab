@@ -25,7 +25,7 @@ National Center for Education Statistics
 https://nces.ed.gov/
 
 
-Navigating these data can be tricky, and is also part of a data scientist's job. <br>
+Navigating these data can be tricky, and is also part of a data scientist's job. <br><br>
 In order to download the code for today's lab and modify it, CD into your working class folder using the command line, then enter the following commands:
 
 ```
