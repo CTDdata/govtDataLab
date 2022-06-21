@@ -1,5 +1,10 @@
+<h1>Lab: Working with Government Data</h1>
+
 Choose a pubicly available dataset from a government entity. Use raw data/micro data, not data that has already been summarized.
-Try to find a dataset  that's particulary interesting to you.
+Try to find a dataset  that's particulary interesting to you, and then find a column in the dataset that you want to study. 
+
+The data should be in a .xlsx, .sas7bdat, or .csv file. (.zip data often contains these filetypes)
+Find the data dictionary or codebook that corresponds to your data file. (In rare cases, the file will contain descriptive info and no codebook is necsssary)
 
 Here are some sources of government data:
 
@@ -21,7 +26,20 @@ https://nces.ed.gov/
 
 
 Navigating these data can be tricky, and is also part of a data scientist's job.
-Modify today's code-along to incorporate your chosen data set, and create a frequency chart.
-Explain why you chose this dataset, and in particular, this variable to analyze. Write about what you've discovered.
-Write about the potential limitations of the dataset you've chosen.
+In order to download the code for today's lab and modify, CD into your working class folder using the command line, then enter the following commands. 
+
+'''
+git clone https://github.com/CTDdata/govtDataLab
+cd govDataLab
+jupyter notebook
+'''
+
+The Jupyter Notebooks interface will open in your browser. You can open govt-data.ipynb and modify it to work for your dataset, which you will drag into the govtDataLab folder.
+
+Modify and run the appropriate cells. When you are done, a frequency chart that reflects the appropriate column of your chosen dataset should appear at the bottom of the notebook. Save your work.
+
+Create a new Github repository, and be sure to create a README.md file. Upload your modified Jupyter notebook to the repository, and in the README.md file, write at least 100 words about why the chosen dataset is interesting to you. Write about why you selected this column for a frequency analysis, and what the frequency chart has revealed. Save your changes, and turn in a link to your new Github repository. 
+
+I should be able to see your outputs, including frequency chart, when I click into your Jupyter notebook in the Github browser. 
+
 
