@@ -40,6 +40,6 @@ Modify and run the appropriate cells. When you are done, a frequency chart that 
 
 Create a new Github repository, and be sure to create a README.md file. Upload your modified Jupyter notebook to the repository, and in the README.md file, write at least 100 words about why the chosen dataset is interesting to you. Write about why you selected this column for a frequency analysis, and what the frequency chart has revealed. Save your changes, and turn in a link to your new Github repository. 
 
-I should be able to see your outputs, including frequency chart, when I click into your Jupyter notebook in the Github browser. 
+I should be able to see your outputs, including frequency chart, when I click into your Jupyter notebook in the Github browser (as in <a href = 'https://github.com/CTDdata/govtDataLab/blob/aces-output/govt-data.ipynb'>this example</a>). 
 
 
