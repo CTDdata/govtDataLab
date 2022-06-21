@@ -1,10 +1,10 @@
 <h1>Lab: Working with Government Data</h1>
 
-Choose a pubicly available dataset from a government entity. Use raw data/micro data, not data that has already been summarized.
-Try to find a dataset  that's particulary interesting to you, and then find a column in the dataset that you want to study. 
+Choose a pubicly available dataset from a government entity. Use raw data/micro data, not data that has already been summarized.<br>
+Try to find a dataset  that's particulary interesting to you, and then find a column in the dataset that you want to study. <br>
 
-The data should be in a .xlsx, .sas7bdat, or .csv file. (.zip data often contains these filetypes)
-Find the data dictionary or codebook that corresponds to your data file. (In rare cases, the file will contain descriptive info and no codebook is necsssary)
+The data should be in a .xlsx, .sas7bdat, or .csv file (.zip data often contains these filetypes). <br>
+Find the data dictionary or codebook that corresponds to your data file. (In rare cases, the file will contain descriptive info and no codebook is necsssary). <br>
 
 Here are some sources of government data:
 
@@ -25,8 +25,8 @@ National Center for Education Statistics
 https://nces.ed.gov/
 
 
-Navigating these data can be tricky, and is also part of a data scientist's job.
-In order to download the code for today's lab and modify, CD into your working class folder using the command line, then enter the following commands. 
+Navigating these data can be tricky, and is also part of a data scientist's job. <br>
+In order to download the code for today's lab and modify it, CD into your working class folder using the command line, then enter the following commands:
 
 ```
 git clone https://github.com/CTDdata/govtDataLab
