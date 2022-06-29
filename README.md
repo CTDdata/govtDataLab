@@ -43,13 +43,14 @@ Create a new Github repository, and be sure to create a README.md file. Upload y
 I should be able to see your outputs, including frequency chart, when I click into your Jupyter notebook in the Github browser (as in <a href = 'https://github.com/CTDdata/govtDataLab/blob/aces-output/govt-data.ipynb'>this example</a>). 
 
 <h2>Potential Issues</h2>
+<h3>Git problems</h3>
 If the git command above doesn't work, try running the following first:
 
 ```
 conda install -c anaconda git
 ```
-
-If you have tried multiple attempts with your chosen dataset and it isn't working, you go to Schoology>Week 1>Day 3>Backup Dataset. At 16 MB, it is a relatively manageable file size. Choose a column to work with that you find interesting. 
+<h3>Data Frustration</h3>
+If you have tried multiple attempts with your chosen dataset and it isn't working, or if it can't work for this assignment, you can go to Schoology>Week 1>Day 3>Backup Dataset. At 16 MB, it is a relatively manageable file size. Choose a column to work with that you find interesting. 
 
 
 
