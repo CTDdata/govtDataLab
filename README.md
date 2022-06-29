@@ -49,6 +49,7 @@ If the git command above doesn't work, try running the following first:
 conda install -c anaconda git
 ```
 
+If you have tried multiple attempts with your chosen dataset and it isn't working, you go to Schoology>Week 1>Day 3>Backup Dataset. At 16 MB, it is a relatively manageable file size. Choose a column to work with that you find interesting. 
 
 
 
