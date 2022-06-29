@@ -42,4 +42,15 @@ Create a new Github repository, and be sure to create a README.md file. Upload y
 
 I should be able to see your outputs, including frequency chart, when I click into your Jupyter notebook in the Github browser (as in <a href = 'https://github.com/CTDdata/govtDataLab/blob/aces-output/govt-data.ipynb'>this example</a>). 
 
+<h2>Potential Issues</h2>
+If the git command above doesn't work, try running the following first:
+
+```
+conda install -c anaconda git
+```
+
+
+
+
+
 
